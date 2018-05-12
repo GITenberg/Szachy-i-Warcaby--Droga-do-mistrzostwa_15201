@@ -1,0 +1,35 @@
+_repo: Szachy-i-Warcaby--Droga-do-mistrzostwa_15201
+_version: 0.1.0
+alternative_title: 'Chess and Checkers: The Way to Mastership. Polish'
+contributor:
+  translator:
+    agent_name: Oziminski, Wojciech
+    gutenberg_agent_id: '5912'
+    url: http://www.gutenberg.org/2009/agents/5912
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lasker, Edward
+    alias: Lasker, Eduard
+    birthdate: 1885
+    deathdate: 1981
+    gutenberg_agent_id: '1589'
+    url: http://www.gutenberg.org/2009/agents/1589
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Lasker
+description: ''
+gutenberg_issued: '2005-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15201'
+language: pl
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Checkers'
+- !lcc 'GV'
+- !lcsh 'Chess'
+title: 'Szachy i Warcaby: Droga do mistrzostwa'
+url: http://www.gutenberg.org/ebooks/15201
