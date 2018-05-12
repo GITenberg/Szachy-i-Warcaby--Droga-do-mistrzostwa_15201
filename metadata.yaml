@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1589
     wikipedia: http://en.wikipedia.org/wiki/Edward_Lasker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15201#Szachy-i-Warcaby--Droga-do-mistrzostwa
 gutenberg_issued: '2005-02-28'
 gutenberg_type: Text
 identifiers:
